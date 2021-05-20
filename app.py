@@ -1,3 +1,5 @@
+#Prerequisites: Create a project environment for the Flask Setting :https://code.visualstudio.com/docs/python/tutorial-flask
+
 import pyttsx3
 ptt=pyttsx3.init()
 import getpass
